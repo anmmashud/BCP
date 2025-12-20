@@ -6,3 +6,5 @@
 *.temp
 *.bak
 *.lock
+*.pdf
+*.PDF
